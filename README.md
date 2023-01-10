@@ -14,7 +14,7 @@ Hello!
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://random-memer-production-091f.up.railway.app/" width="759" height="579">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://random-memer.dennisthegamer.repl.co/">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DennisMager&icon=2&color=10)](https://visitcount.itsvg.in)
