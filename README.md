@@ -14,7 +14,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=DennisMager&label=Profile%20Views&color=10&icon=2&pretty=false)](https://visitcount.itsvg.in)
-  <img src="https://visitcount.itsvg.in/api?id=DennisMager&label=Profile%20Views&color=10&icon=2&pretty=false" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
